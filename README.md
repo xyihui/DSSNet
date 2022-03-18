@@ -10,18 +10,11 @@ The codebase is tested on the following setting.
 * torchvision>=0.7
 
 # References
-
+The paper is submitted to IEEE Transactions on Medical Imaging,
+* @article{xiang2022dual,
 * title={Dual Stream Segmentation Network for Fundus Lesion Segmentation},
-* PyTorch>=1.6.0
-* torchvision>=0.7
-
-title={Dual Stream Segmentation Network for Fundus Lesion Segmentation},
-author={Dehui Xiang, , Shenshen Yan, Ying Guan, Mulin Cai, Xinjian Chen, Zheqing Li and Bei Tian},
-* 
-@article{xiang2022dual,
-title={Dual Stream Segmentation Network for Fundus Lesion Segmentation},
-author={Dehui Xiang, , Shenshen Yan, Ying Guan, Mulin Cai, Xinjian Chen, Zheqing Li and Bei Tian},
-journal={IEEE Transactions on Medical Imaging},
-year={2022},
-publisher={IEEE}
-}
+* author={Dehui Xiang, Shenshen Yan, Ying Guan, Mulin Cai, Xinjian Chen, Zheqing Li and Bei Tian},
+* journal={IEEE Transactions on Medical Imaging},
+* year={2022},
+* publisher={IEEE}
+* }
