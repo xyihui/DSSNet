@@ -11,6 +11,10 @@ The codebase is tested on the following setting.
 
 # References
 
+* title={Dual Stream Segmentation Network for Fundus Lesion Segmentation},
+* PyTorch>=1.6.0
+* torchvision>=0.7
+
 title={Dual Stream Segmentation Network for Fundus Lesion Segmentation},
 author={Dehui Xiang, , Shenshen Yan, Ying Guan, Mulin Cai, Xinjian Chen, Zheqing Li and Bei Tian},
 * 
