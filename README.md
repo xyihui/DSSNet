@@ -10,9 +10,9 @@ The codebase is tested on the following setting.
 * torchvision>=0.7
 # References
 @article{xiang2022dual,
-	title={Dual Stream Segmentation Network for Fundus Lesion Segmentation},
-	author={Dehui Xiang, , Shenshen Yan, Ying Guan, Mulin Cai, Xinjian Chen, Zheqing Li and Bei Tian},
-	journal={IEEE Transactions on Medical Imaging},
-	year={2022},
-	publisher={IEEE}
+title={Dual Stream Segmentation Network for Fundus Lesion Segmentation},
+author={Dehui Xiang, , Shenshen Yan, Ying Guan, Mulin Cai, Xinjian Chen, Zheqing Li and Bei Tian},
+journal={IEEE Transactions on Medical Imaging},
+year={2022},
+publisher={IEEE}
 }
